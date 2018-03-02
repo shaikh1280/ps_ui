@@ -12,8 +12,12 @@
     <div class="container">
       <!-- Content Header (Page header) -->
       
-
-      
+<h1 align="center">
+      <a href="./profile.php">Profile</a><br>
+      <a href="./login.php">Log In</a><br>
+      <a href="./signup.php">Sign Up</a><br>
+      <a href="./resetpart1.php">Reset Password Part 1</a><br>
+      <a href="./resetpart2.php">Reset Password Part 2</a></h1>
       
       <!-- /.content -->
     </div>
