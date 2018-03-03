@@ -1,5 +1,6 @@
 <html style="height: auto; min-height: 100%;"><head>
         <?php include('./include/global_header.php') ?>
+        <link rel="stylesheet" href="./assets/plainsurf/css/user/login.css">
     </head>
     <!-- ADD THE CLASS layout-top-nav TO REMOVE THE SIDEBAR. -->
     <body class="skin-blue layout-top-nav" style="height: auto; min-height: 100%;">
@@ -30,7 +31,7 @@
                                     <span class="glyphicon glyphicon-lock form-control-feedback"></span>
                                 </div>
                                 <div class="row">
-                                    <div class="col-xs-8">
+                                    <div class="col-xs-7 remember-login">
                                         <div class="checkbox icheck">
                                             <label>
                                                 <input type="checkbox"> Remember Me
@@ -38,7 +39,7 @@
                                         </div>
                                     </div>
                                     <!-- /.col -->
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-5">
                                         <button type="submit" class="btn btn-primary btn-block btn-flat">Sign In</button>
                                     </div>
                                     <!-- /.col -->
