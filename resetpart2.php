@@ -14,7 +14,7 @@
 
       <div class="login-box">
   <div class="login-logo">
-    <a href="../../index2.html"><b>Plain</b>Surf</a>
+    Reset Password
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
@@ -32,14 +32,11 @@
         
       </div>
       
-      <div class="row">
-        <div class="col-xs-8">
-          
-        </div>
-        <!-- /.col -->
-        
-          <button type="submit" class="btn btn-primary btn-block btn-flat">Send Confirmation Link</button>
-        </div>
+      <a href="./login.php"><button type="button" class="btn btn-danger">Cancel</button></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><button type="button" class="btn bg-blue margin">Submit</button></a>
         <!-- /.col -->
       </div>
     </form>

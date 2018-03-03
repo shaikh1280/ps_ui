@@ -11,13 +11,37 @@
   <div class="content-wrapper" style="min-height: 364px;">
     <div class="container">
       <!-- Content Header (Page header) -->
+<br>
+<div class="box box-success box-solid">
+            <div class="box-header with-border">
+              <h3 class="box-title">All URL's</h3>
+
+              <div class="box-tools pull-right">
+                
+              </div>
+              <!-- /.box-tools -->
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body">
+              <ul class="nav nav-stacked">
+                <li><a href="./profile.php">Profile</a></li>
+                <li><a href="./login.php">Log In</a></li>
+                <li><a href="./signup.php">Sign Up</a></li>
+                <li><a href="./resetpart1.php">Reset Password Part 1</a></li>
+                <li><a href="./resetpart2.php">Reset Password Part 2</a></li>
+              </ul>
+            </div>
+            <!-- /.box-body -->
+          </div>
+
       
-<h1 align="center">
-      <a href="./profile.php">Profile</a><br>
-      <a href="./login.php">Log In</a><br>
-      <a href="./signup.php">Sign Up</a><br>
-      <a href="./resetpart1.php">Reset Password Part 1</a><br>
-      <a href="./resetpart2.php">Reset Password Part 2</a></h1>
+<div class="box box-widget widget-user-2">
+            <!-- Add the bg color to the header using any of the bg-* classes -->
+            
+            <div class="box-footer no-padding">
+              
+            </div>
+          </div>
       
       <!-- /.content -->
     </div>
