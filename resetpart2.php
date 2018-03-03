@@ -33,11 +33,8 @@
       </div>
       
       <a href="./login.php"><button type="button" class="btn btn-danger">Cancel</button></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><button type="button" class="btn bg-blue margin">Submit</button></a>
+
+<a href=""><button type="button" class="btn bg-blue pull-right">Submit</button></a>
         <!-- /.col -->
       </div>
     </form>
