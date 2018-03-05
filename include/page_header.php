@@ -17,7 +17,7 @@
           </ul>
           <form class="navbar-form navbar-left header-input-form" role="search">
             <div class="form-group header-input-form">
-              <input class="form-control header-input-form-input" id="navbar-search-input" placeholder="Search" type="text">
+              <input class="form-control header-input-form-input" id="navbar-search-input" placeholder="https://" type="text">
             </div>
           </form>
         </div>

@@ -1,62 +1,28 @@
-<html style="height: auto; min-height: 100%;"><head>
+<html style="height: auto; min-height: 100%;">
+    <head>
         <?php include('./include/global_header.php') ?>
     </head>
-    <!-- ADD THE CLASS layout-top-nav TO REMOVE THE SIDEBAR. -->
     <body class="skin-blue layout-top-nav" style="height: auto; min-height: 100%;">
         <div class="wrapper" style="height: auto; min-height: 100%;">
-
-            <?php include('./include/page_header.php') ?>
-            <!-- Full Width Column -->
+            <?php include('./include/page_header.php') ?>           
             <div class="content-wrapper" style="min-height: 364px;">
-                <div class="container">
-                    <!-- Content Header (Page header) -->
-
-
+                <div class="container">                    
                     <div class="login-box">
                         <div class="login-logo">
-                            <a href="../../index2.html">Reset Password</a>
-                        </div>
-                        <!-- /.login-logo -->
+                            <b>Reset</b>Password
+                        </div>                       
                         <div class="login-box-body">
-                            <p class="login-box-msg">Reset Password</p>
-
-                            <form action="../../index2.html" method="post">
-                                <div class="form-group has-feedback">
-                                    <input type="email" class="form-control" placeholder="Enter Your Registered Email">
-
-                                </div>
-
-
-                                <!-- /.col -->
-
-
-                                <a href="./login.php"><button type="button" class="btn btn-danger">Cancel</button></a>
-                                <a href=""><button type="button" class="btn bg-blue pull-right">Submit</button></a>
-
-
-                                <!-- /.col -->
-
-                            </form>
-                        </div>    
-
-
-
-
+                            <p class="login-box-msg">Reset Your Password</p>                            
+                            <div class="form-group has-feedback">
+                                <input type="email" class="form-control" placeholder="Enter Your Registered Email">
+                            </div>
+                            <a href="./login.php"><button type="button" class="btn btn-danger">Cancel</button></a>
+                            <a href=""><button type="button" class="btn bg-blue pull-right">Submit</button></a>                            
+                        </div>         
                     </div>
-                    <!-- /.login-box-body -->
                 </div>
-                <!-- /.login-box -->
-
-                <!-- /.content -->
             </div>
-            <!-- /.container -->
         </div>
-        <!-- /.content-wrapper -->
-
-    </div>
-    <!-- ./wrapper -->
-
-
-    <?php include('./include/global_footer.php') ?>
-</body>
+        <?php include('./include/global_footer.php') ?>
+    </body>
 </html>

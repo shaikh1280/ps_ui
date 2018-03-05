@@ -1,25 +1,18 @@
-<html style="height: auto; min-height: 100%;"><head>
+<html style="height: auto; min-height: 100%;">
+    <head>
         <?php include('./include/global_header.php') ?>
     </head>
-    <!-- ADD THE CLASS layout-top-nav TO REMOVE THE SIDEBAR. -->
     <body class="skin-blue layout-top-nav" style="height: auto; min-height: 100%;">
         <div class="wrapper" style="height: auto; min-height: 100%;">
-
             <?php include('./include/page_header.php') ?>
-            <!-- Full Width Column -->
             <div class="content-wrapper" style="min-height: 364px;">
                 <div class="container">
-                    <!-- Content Header (Page header) -->
-
-
                     <div class="register-box">
                         <div class="register-logo">
-                            <a href="../../index2.html"><b>Admin</b>LTE</a>
+                            <b>Sign</b>Up
                         </div>
-
                         <div class="register-box-body">
                             <p class="login-box-msg">Register a new membership</p>
-
                             <form action="../../index.html" method="post">
                                 <div class="form-group has-feedback">
                                     <input type="text" class="form-control" placeholder="Full name">
@@ -45,14 +38,11 @@
                                             </label>
                                         </div>
                                     </div>
-                                    <!-- /.col -->
                                     <div class="col-xs-4">
                                         <button type="submit" class="btn btn-primary btn-block btn-flat">Register</button>
                                     </div>
-                                    <!-- /.col -->
                                 </div>
                             </form>
-
                             <div class="social-auth-links text-center">
                                 <p>- OR -</p>
                                 <a href="#" class="btn btn-block btn-social btn-facebook btn-flat"><i class="fa fa-facebook"></i> Sign up using
@@ -60,26 +50,12 @@
                                 <a href="#" class="btn btn-block btn-social btn-google btn-flat"><i class="fa fa-google-plus"></i> Sign up using
                                     Google+</a>
                             </div>
-
                             <a href="./login.php" class="text-center">I already have a membership</a>
                         </div>
-                        <!-- /.form-box -->
                     </div>
-                    <!-- /.register-box -->
-
-
-                    <!-- /.content -->
                 </div>
-                <!-- /.container -->
             </div>
-            <!-- /.content-wrapper -->
-
         </div>
-        <!-- ./wrapper -->
-
-
         <?php include('./include/global_footer.php') ?>
-
-
-
-    </body></html>
+    </body>
+</html>
