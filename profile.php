@@ -1,4 +1,5 @@
-<html style="height: auto; min-height: 100%;"><head>
+<html style="height: auto; min-height: 100%;">
+    <head>
         <?php include('./include/global_header.php') ?>
         <link rel="stylesheet" href="./assets/plainsurf/css/user/profile.css">
     </head>
