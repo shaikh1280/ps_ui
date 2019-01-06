@@ -3,6 +3,7 @@
   <title>PlainSurf | Explore Your Ideas</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+<link rel="shortcut icon" type="image/jpg" href="/plainsurf.jpg"/>
   <!-- Bootstrap 3.3.7 -->
   <link rel="stylesheet" href="../assets/bootstrap/dist/css/bootstrap.min.css">
   <!-- Font Awesome -->

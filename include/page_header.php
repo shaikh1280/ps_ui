@@ -2,7 +2,7 @@
     <nav class="navbar navbar-static-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="../../index2.html" class="navbar-brand"><b>Plain</b>Surf</a>
+          <a href="./index.php" class="navbar-brand"><b>Plain</b>Surf</a>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
             <i class="fa fa-bars"></i>
           </button>
@@ -17,7 +17,7 @@
           </ul>
           <form class="navbar-form navbar-left header-input-form" role="search">
             <div class="form-group header-input-form">
-              <input class="form-control header-input-form-input" id="navbar-search-input" placeholder="Search" type="text">
+              <input class="form-control header-input-form-input" id="navbar-search-input" placeholder="https://" type="text">
             </div>
           </form>
         </div>
